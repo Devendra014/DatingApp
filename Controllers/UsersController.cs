@@ -9,9 +9,8 @@ using Microsoft.EntityFrameworkCore;
 
 namespace API.Controllers
 {
-    [ApiController]
-    [Route("API[Controller]")]
-    public class UsersController : ControllerBase
+  
+    public class UsersController : BaseApiController
     {
         private readonly DataContext _Context;
         public UsersController(DataContext Context)
