@@ -20,9 +20,12 @@
     "@angular/router": "~12.2.0",
     "awesome": "^0.0.7",
     "bootstrap": "^4.5.3",
+    "bootswatch": "^5.2.1",
     "font": "^0.0.4",
     "ngx": "^2.4.0",
     "ngx-bootstrap": "^7.1.2",
+    "ngx-toaster": "^1.0.1",
+    "ngx-toastr": "^13.2.1",
     "rxjs": "~6.6.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
